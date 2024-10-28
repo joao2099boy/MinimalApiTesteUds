@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTOoNdOdY28=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao.souza\\source\\repos\\ApiTestUdsSolutionnFixed\\MinimalApiTesteUds.Application\\MinimalApiTesteUds.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.souza\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
